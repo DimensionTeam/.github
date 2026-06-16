@@ -1,7 +1,15 @@
-# 🤔 Who are we?
-We're Dimension, A team of talented designers and developers bringing our imagination to life. We experiment with creating various Operating Systems.
+![Dimension Thumbnail](https://github.com/DimensionTeam/.github/blob/main/DIMENSION.png "The Dimension logo")
+<div align="center">
+  <h1 align="center" style="font-weight: bold;">Dimension</h1>
+  <p>A team of talented designers and developers bringing our imagination to life. We're crafting purposeful, beautiful and high-performance Operating Systems
+</div>
+
 # 🔨 Projects:
-We're working on:
+<h3>We're working on:</h3>
 - Codename: NXT
+<br>
 - GraphiteOS
 
+<hr>
+
+Made with ❤️ by The Dimension Team
