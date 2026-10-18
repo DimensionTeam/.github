@@ -7,8 +7,6 @@
 # 🔨 Projects:
 <h3>We're working on:</h3>
 - Codename: NXT
-<br>
-- GraphiteOS
 
 <hr>
 
