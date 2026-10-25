@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DimensionTeam/.github/main/DIMENSION.png" alt="Dimension logo">
+  <img src="https://raw.githubusercontent.com/DimensionTeam/.github/main/dimension.png" alt="Dimension logo">
 
   <h1>Dimension</h1>
 
